@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a full stack web developer. I have a passion for creating complex and useful applications using frameworks such as React and Vue JS. I love working alongside others and hope to have the confidence to collobrate in open source projects in the near future. For now, building my experience and knowledge is my goal. 
+
+📫 How to reach me: 
+- [LinkedIn](https://www.linkedin.com/in/christopherqtri/)
+
+
+#### Couple of github stats
 ![Chris' github stats](https://github-readme-stats.vercel.app/api?username=MomentaiChris26&count_private=true)
 
 
