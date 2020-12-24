@@ -6,7 +6,7 @@ I'm a full stack web developer. I have a passion for creating complex and useful
 - [LinkedIn](https://www.linkedin.com/in/christopherqtri/)
 
 
-#### Couple of github stats
+### Github stats
 ![Chris' github stats](https://github-readme-stats.vercel.app/api?username=MomentaiChris26&count_private=true)
 
 
