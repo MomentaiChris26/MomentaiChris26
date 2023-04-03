@@ -10,7 +10,6 @@ Full Stack Developer
 - Groovy/Grails
 - Java
 - Cypress automated testing
-- 
 
 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/christopherqtri/)
