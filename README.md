@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-I'm a full stack web developer. I have a passion for creating complex and useful applications using frameworks such as React and Vue JS. I love working alongside others and hope to have the confidence to collobrate in open source projects in the near future. For now, building my experience and knowledge is my goal. 
+Full Stack Developer
+
+### Technologies I've worked with
+- React
+- Ruby / Ruby on Rails
+- Vue
+- AWS
+- Groovy/Grails
+- Java
+- Cypress automated testing
+- 
 
 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/christopherqtri/)
