@@ -11,7 +11,7 @@ Full Stack Developer
 - Java
 - Cypress automated testing
 
-📫 How to reach me: 
+### 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/christopherqtri/)
 
 
