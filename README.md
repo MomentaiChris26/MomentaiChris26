@@ -16,9 +16,6 @@ Full Stack Developer
 
 
 ### Github stats
-![Chris' github stats](https://github-readme-stats.vercel.app/api?username=MomentaiChris26&count_private=true)
-
-
 ![Top Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=MomentaiChris26&langs_count=10)
 
 <!--
